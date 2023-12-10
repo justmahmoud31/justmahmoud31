@@ -5,7 +5,7 @@ Always have something to learn
 
 - 🌍 I live in Cairo
 - ✉️  You can contact me at [justmahmoud3152003@gmail.com](mailto:justmahmoud3152003@gmail.com)
-- 🏢 Front-end developer at METAX 
+- 🏢 Front-end developer  
 
 ![](https://komarev.com/ghpvc/?username=justmahmoud31)
 
