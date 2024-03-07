@@ -25,7 +25,7 @@ Always have something to learn
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-
+<a href="https://nodejs.org/en" target="_blank" ><img src="https://icons8.com/icon/54087/nodejs" width="36" height="36" alt="Node js"></a>
 ### Socials
 
 <p align="left">
